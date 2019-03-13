@@ -1,6 +1,6 @@
 /*
 * CSS File for Funbox task
-* (c) Anufriy Efremov, 13.03.2019
+* (c) Anufriy Efremov, 13.03.2019 v.1.2
 */
 @font-face {
   font-family: "Exo";
@@ -11,7 +11,7 @@ body {
   background: url("../img/fon2.png"); }
 
 /* 
-* Main mini card's (good's) class
+* Main mini card's (good's) class 
 */
 .mini-card {
   background: url("../img/mini-card.svg");
@@ -35,13 +35,13 @@ body {
 /* Slogan above a name */
 .mini-card .good_slog {
   color: #666666;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   font-size: 16px; }
 
 /* Name of good */
 .mini-card .good_name {
   color: #000000;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   font-size: 48px;
   font-weight: bold;
   line-height: 60px; }
@@ -49,7 +49,7 @@ body {
 /* Short desc */
 .mini-card .with_content {
   color: #000000;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   font-size: 24px;
   font-weight: bold;
   line-height: 21px; }
@@ -57,14 +57,14 @@ body {
 /* Additional text */
 .mini-card .with_addit {
   color: #666666;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   font-size: 14px;
   line-height: 16px;
   margin-top: 17px; }
 
 /* Image of a good */
 .mini-card .good_image {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   position: absolute;
   bottom: 0px;
   left: 4px; }
@@ -74,7 +74,7 @@ body {
 
 /* Cirlcle with a weight of food */
 .mini-card .good_wt {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   position: absolute;
   height: 81px;
   width: 81px;
@@ -101,7 +101,7 @@ body {
 
 /* Desc under a mini-card */
 .good_under {
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
   position: absolute;
   bottom: -31px;
   font-size: 13px;
